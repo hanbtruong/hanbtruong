@@ -1,7 +1,7 @@
 ## Hi there 👋
-🔭 I’m currently working on data/ML projects
-- 📫 How to connect with me: hanbttruong@gmail.com
-- ⚡ Fact: I am a runner, cyclist and triathle
+🔭 I am Senior Product Manager with master degree in Data Analytics. I am currently working on some data/ML projects.
+📫 How to connect with me: hanbttruong@gmail.com
+⚡ Fact about me: I am a runner, cyclist and triathle
 <!--
 **hanbtruong/hanbtruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
