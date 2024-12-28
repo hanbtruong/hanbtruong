@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-🔭 I am Senior Product Manager with master degree in Data Analytics. I am currently working on some data/ML projects.
+🔭 I am Senior Product Manager with master degree in Data Analytics.
 
 📫 How to connect with me: hanbttruong@gmail.com
 
-⚡ Fact about me: I am a runner, cyclist and triathle
+⚡ Fact about me: I am a runner, cyclist and triathlete. 
 <!--
 **hanbtruong/hanbtruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
