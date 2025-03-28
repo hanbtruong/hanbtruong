@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I am Senior Product Manager with master degree in Data Analytics.
+🔭 I am Senior Product Manager, Search and Recommendations with master degree in Data Analytics.
 
 📫 How to connect with me: hanbttruong@gmail.com
 
